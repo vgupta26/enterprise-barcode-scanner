@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EnterpriseBarcodeScanner</string>
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>
